@@ -1,0 +1,56 @@
+16:40:05.573 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+16:40:05.595 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+16:52:01.359 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+16:52:01.393 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+17:10:46.769 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+17:10:46.798 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+17:24:31.975 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+17:24:32.004 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+18:08:23.802 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+18:08:23.877 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+19:14:33.916 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+19:14:33.942 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+20:12:49.795 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+20:12:49.823 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+20:13:18.842 [main] INFO  testCases.LoginTest - Starting LoginTest
+20:21:44.685 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+20:21:44.710 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+20:22:14.480 [main] INFO  testCases.LoginTest - Starting LoginTest
+20:22:38.005 [main] INFO  testCases.LoginTest -  Finished TC_002_LoginTest
+21:45:24.365 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+21:45:24.450 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+21:45:49.994 [main] INFO  testCases.LoginTest - Starting LoginTest
+21:46:12.374 [main] INFO  testCases.LoginTest -  Finished TC_002_LoginTest
+21:46:31.606 [main] INFO  testCases.loginDataProviderTest -  Starting LoginDataDrivenTest 
+21:46:49.936 [main] INFO  testCases.loginDataProviderTest -  Finished LoginDataDrivenTest
+21:46:49.939 [main] INFO  testCases.loginDataProviderTest -  Starting LoginDataDrivenTest 
+21:47:12.029 [main] INFO  testCases.loginDataProviderTest -  Finished LoginDataDrivenTest
+21:47:12.037 [main] INFO  testCases.loginDataProviderTest -  Starting LoginDataDrivenTest 
+21:47:34.137 [main] INFO  testCases.loginDataProviderTest -  Finished LoginDataDrivenTest
+21:47:34.143 [main] INFO  testCases.loginDataProviderTest -  Starting LoginDataDrivenTest 
+21:47:56.057 [main] INFO  testCases.loginDataProviderTest -  Finished LoginDataDrivenTest
+21:47:56.067 [main] INFO  testCases.loginDataProviderTest -  Starting LoginDataDrivenTest 
+22:25:15.097 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+22:25:15.125 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+22:25:33.763 [main] INFO  testCases.LoginTest - Starting LoginTest
+22:25:50.622 [main] INFO  testCases.LoginTest -  Finished TC_002_LoginTest
+15:01:42.493 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+15:01:42.519 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+15:02:04.175 [main] INFO  testCases.LoginTest - Starting LoginTest
+15:02:19.470 [main] INFO  testCases.LoginTest -  Finished TC_002_LoginTest
+15:06:10.168 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+15:06:10.194 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+15:06:36.403 [main] INFO  testCases.LoginTest - Starting LoginTest
+15:06:52.837 [main] INFO  testCases.LoginTest -  Finished TC_002_LoginTest
+15:33:20.577 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+15:33:20.670 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+15:33:40.609 [main] INFO  testCases.LoginTest - Starting LoginTest
+15:33:58.002 [main] INFO  testCases.LoginTest -  Finished TC_002_LoginTest
+15:36:31.534 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+15:36:31.557 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+15:36:51.691 [main] INFO  testCases.LoginTest - Starting LoginTest
+15:37:20.763 [main] INFO  testCases.LoginTest -  Finished TC_002_LoginTest
+11:06:21.560 [main] INFO  testCases.AccountRegistrationTest - *****Starting Account Registration test******
+11:06:21.629 [main] INFO  testCases.AccountRegistrationTest - **clicking Resigter link**
+11:06:44.467 [main] INFO  testCases.LoginTest - Starting LoginTest
+11:07:11.761 [main] INFO  testCases.LoginTest -  Finished TC_002_LoginTest
